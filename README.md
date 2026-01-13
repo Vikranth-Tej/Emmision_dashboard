@@ -18,7 +18,7 @@ The goal of this analysis is to:
 
 ## Dataset Description
 
-Each record represents a **county or county-equivalent** (including boroughs and census areas).
+Each record represents a **county or county-equivalent**.
 
 ### Core Data Fields
 
