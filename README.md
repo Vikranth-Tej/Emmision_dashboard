@@ -1,6 +1,6 @@
 # County-Level Greenhouse Gas Emissions Analysis
 
-This project explores **greenhouse gas (GHG) emissions at the U.S. county level**, combining emissions data with population, geographic, energy consumption, and transportation indicators to better understand spatial and per-capita emission patterns.
+This project explores **greenhouse gas (GHG) emissions at the U.S. county level** using DataBricks, combining emissions data with population, geographic, energy consumption, and transportation indicators to better understand spatial and per-capita emission patterns.
 
 ---
 
@@ -82,10 +82,7 @@ This dataset can be used to:
   - Energy consumption
   - Vehicle miles traveled
   - Employment levels
-- Integration with visualization tools such as:
-  - Tableau
-  - Power BI
-  - Python (GeoPandas, Folium)
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71749656-c1ac-4f04-a76e-24c3dc91e68a" />
 
