@@ -84,5 +84,6 @@ This dataset can be used to:
   - Employment levels
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71749656-c1ac-4f04-a76e-24c3dc91e68a" />
+## DataBricks Dashboard
+<img width="1881" height="881" alt="image" src="https://github.com/user-attachments/assets/1b11b500-0f28-4199-8c9d-a9a160b9e08b" />
 
